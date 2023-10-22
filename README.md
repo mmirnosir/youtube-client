@@ -1,4 +1,4 @@
-# Searches youtube for videos you query. Gives a list videos to pick from and then plays it in an MPV player.
+# Command line YouTube Client
 
 All required libraries are inside of requirements.txt
 
